@@ -23,4 +23,7 @@ Videos are securely stored on Firebase Storage, and the app is deployed on Fireb
    Developed using Flutter with Dart, ensuring a responsive and cross-platform user experience.<br>
    Videos are securely stored on Firebase Storage, and the app is deployed on Firebase Hosting.
 
-<h2>Game Screenshots</h2> 
+<h2>Project Screenshots</h2> 
+<img src="images/1.png" width="400">
+<img src="images/2.png" width="400">
+<img src="images/3.png" width="400">
